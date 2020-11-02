@@ -5,7 +5,7 @@ ControlClick("Open","","Button1")
 Sleep(500)
 
 ControlFocus("Open","", "Edit1")
-ControlSetText("Open","","Edit1" ,"haku")
+ControlSetText("Open","","Edit1" ,"project")
 ControlClick("Open","","Button1")
 
 Sleep(500)
